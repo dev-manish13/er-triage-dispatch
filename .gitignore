@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables & temp files
+.env
+*.log
+project_code.txt
+.DS_Store
+
+# Build outputs
+client/dist/
